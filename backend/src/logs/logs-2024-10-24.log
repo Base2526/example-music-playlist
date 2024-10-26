@@ -1,0 +1,45 @@
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"FORCE_LOGOUT","description":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en,th;q=0.9","apollo-require-preflight":"true","authorization":"Bearer U2FsdGVkX1/Ut2pd9zAjbL/gi5hudfxzGqagsIOIpJGm2DT3fSopZoaiBwJzrWt4","connection":"keep-alive","content-length":"85","content-type":"application/json","custom-authorization":"Bearer U2FsdGVkX1/Ut2pd9zAjbL/gi5hudfxzGqagsIOIpJGm2DT3fSopZoaiBwJzrWt4","custom-location":"{\"ancestorOrigins\":{},\"href\":\"http://localhost:5173/\",\"origin\":\"http://localhost:5173\",\"protocol\":\"http:\",\"host\":\"localhost:5173\",\"hostname\":\"localhost\",\"port\":\"5173\",\"pathname\":\"/\",\"search\":\"\",\"hash\":\"\"}","custom-x":"--1-- U2FsdGVkX1/Ut2pd9zAjbL/gi5hudfxzGqagsIOIpJGm2DT3fSopZoaiBwJzrWt4","extensions":{"code":"FORCE_LOGOUT","description":{"accept":"*/*","accept-encoding":"gzip, deflate, br, zstd","accept-language":"en,th;q=0.9","apollo-require-preflight":"true","authorization":"Bearer U2FsdGVkX1/Ut2pd9zAjbL/gi5hudfxzGqagsIOIpJGm2DT3fSopZoaiBwJzrWt4","connection":"keep-alive","content-length":"85","content-type":"application/json","custom-authorization":"Bearer U2FsdGVkX1/Ut2pd9zAjbL/gi5hudfxzGqagsIOIpJGm2DT3fSopZoaiBwJzrWt4","custom-location":"{\"ancestorOrigins\":{},\"href\":\"http://localhost:5173/\",\"origin\":\"http://localhost:5173\",\"protocol\":\"http:\",\"host\":\"localhost:5173\",\"hostname\":\"localhost\",\"port\":\"5173\",\"pathname\":\"/\",\"search\":\"\",\"hash\":\"\"}","custom-x":"--1-- U2FsdGVkX1/Ut2pd9zAjbL/gi5hudfxzGqagsIOIpJGm2DT3fSopZoaiBwJzrWt4","host":"localhost:1984","origin":"http://localhost:5173","referer":"http://localhost:5173/","sec-ch-ua":"\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"macOS\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-site","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}},"host":"localhost:1984","origin":"http://localhost:5173","referer":"http://localhost:5173/","sec-ch-ua":"\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"","sec-ch-ua-mobile":"?0","sec-ch-ua-platform":"\"macOS\"","sec-fetch-dest":"empty","sec-fetch-mode":"cors","sec-fetch-site":"same-site","user-agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"}},"locations":[{"column":3,"line":2}],"message":"Expired!","path":["products"]},"level":"error","message":"Error: Expired!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Cannot call abortTransaction after calling commitTransaction","path":["register"]},"level":"error","message":"Error: Cannot call abortTransaction after calling commitTransaction"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"ERROR","description":{"car_brand":"","car_model":"","email":"test007@test.local","idCard":"3452353245457","packages":1,"parentId":"66c4b084cd538705b46a616b","tel":"0988268005","username":"test007"}},"locations":[{"column":3,"line":2}],"message":"EXITING EMAIL","path":["register"]},"level":"error","message":"Error: EXITING EMAIL"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"level":"info","message":"Successfully : Connected to database!"}

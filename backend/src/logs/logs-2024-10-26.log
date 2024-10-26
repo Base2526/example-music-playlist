@@ -1,0 +1,95 @@
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"GRAPHQL_VALIDATION_FAILED","http":{"headers":{},"status":400}},"locations":[{"column":3,"line":2}],"message":"Cannot query field \"JSON\" on type \"Query\"."},"level":"error","message":"Error: Cannot query field \"JSON\" on type \"Query\"."}
+{"err":{"extensions":{"code":"GRAPHQL_VALIDATION_FAILED","http":{"headers":{},"status":400}},"locations":[{"column":3,"line":2}],"message":"Cannot query field \"JSON\" on type \"Query\"."},"level":"error","message":"Error: Cannot query field \"JSON\" on type \"Query\"."}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"GRAPHQL_VALIDATION_FAILED","http":{"headers":{},"status":400}},"locations":[{"column":3,"line":2}],"message":"Cannot query field \"JSON\" on type \"Query\"."},"level":"error","message":"Error: Cannot query field \"JSON\" on type \"Query\"."}
+{"err":{"locations":[{"column":3,"line":2}],"message":"start is not defined","path":["songs"]},"level":"error","message":"Error: start is not defined"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"start is not defined","path":["songs"]},"level":"error","message":"Error: start is not defined"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"start is not defined","path":["playlists"]},"level":"error","message":"Error: start is not defined"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"GRAPHQL_VALIDATION_FAILED","http":{"headers":{},"status":400}},"locations":[{"column":9,"line":2}],"message":"Field \"songs\" must not have a selection since type \"JSON\" has no subfields."},"level":"error","message":"Error: Field \"songs\" must not have a selection since type \"JSON\" has no subfields."}
+{"err":{"extensions":{"code":"GRAPHQL_VALIDATION_FAILED","http":{"headers":{},"status":400}},"locations":[{"column":13,"line":2}],"message":"Field \"playlists\" must not have a selection since type \"JSON\" has no subfields."},"level":"error","message":"Error: Field \"playlists\" must not have a selection since type \"JSON\" has no subfields."}
+{"err":{"extensions":{"code":"GRAPHQL_VALIDATION_FAILED","http":{"headers":{},"status":400}},"locations":[{"column":9,"line":2}],"message":"Field \"songs\" must not have a selection since type \"JSON\" has no subfields."},"level":"error","message":"Error: Field \"songs\" must not have a selection since type \"JSON\" has no subfields."}
+{"err":{"extensions":{"code":"GRAPHQL_VALIDATION_FAILED","http":{"headers":{},"status":400}},"locations":[{"column":13,"line":2}],"message":"Field \"playlists\" must not have a selection since type \"JSON\" has no subfields."},"level":"error","message":"Error: Field \"playlists\" must not have a selection since type \"JSON\" has no subfields."}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `songs.find()` buffering timed out after 10000ms","path":["songs"]},"level":"error","message":"Error: Operation `songs.find()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `playlists.aggregate()` buffering timed out after 10000ms","path":["playlists"]},"level":"error","message":"Error: Operation `playlists.aggregate()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `songs.find()` buffering timed out after 10000ms","path":["songs"]},"level":"error","message":"Error: Operation `songs.find()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `playlists.aggregate()` buffering timed out after 10000ms","path":["playlists"]},"level":"error","message":"Error: Operation `playlists.aggregate()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `songs.find()` buffering timed out after 10000ms","path":["songs"]},"level":"error","message":"Error: Operation `songs.find()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `playlists.aggregate()` buffering timed out after 10000ms","path":["playlists"]},"level":"error","message":"Error: Operation `playlists.aggregate()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `songs.find()` buffering timed out after 10000ms","path":["songs"]},"level":"error","message":"Error: Operation `songs.find()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `playlists.aggregate()` buffering timed out after 10000ms","path":["playlists"]},"level":"error","message":"Error: Operation `playlists.aggregate()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `songs.find()` buffering timed out after 10000ms","path":["songs"]},"level":"error","message":"Error: Operation `songs.find()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `playlists.aggregate()` buffering timed out after 10000ms","path":["playlists"]},"level":"error","message":"Error: Operation `playlists.aggregate()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `songs.find()` buffering timed out after 10000ms","path":["songs"]},"level":"error","message":"Error: Operation `songs.find()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `playlists.aggregate()` buffering timed out after 10000ms","path":["playlists"]},"level":"error","message":"Error: Operation `playlists.aggregate()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `playlists.aggregate()` buffering timed out after 10000ms","path":["playlists"]},"level":"error","message":"Error: Operation `playlists.aggregate()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `songs.find()` buffering timed out after 10000ms","path":["songs"]},"level":"error","message":"Error: Operation `songs.find()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `playlists.aggregate()` buffering timed out after 10000ms","path":["playlists"]},"level":"error","message":"Error: Operation `playlists.aggregate()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `songs.find()` buffering timed out after 10000ms","path":["songs"]},"level":"error","message":"Error: Operation `songs.find()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `songs.find()` buffering timed out after 10000ms","path":["songs"]},"level":"error","message":"Error: Operation `songs.find()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `playlists.aggregate()` buffering timed out after 10000ms","path":["playlists"]},"level":"error","message":"Error: Operation `playlists.aggregate()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `Song.find()` buffering timed out after 10000ms","path":["songs"]},"level":"error","message":"Error: Operation `Song.find()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `playlist.aggregate()` buffering timed out after 10000ms","path":["playlists"]},"level":"error","message":"Error: Operation `playlist.aggregate()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `Song.find()` buffering timed out after 10000ms","path":["songs"]},"level":"error","message":"Error: Operation `Song.find()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `playlist.aggregate()` buffering timed out after 10000ms","path":["playlists"]},"level":"error","message":"Error: Operation `playlist.aggregate()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `song.find()` buffering timed out after 10000ms","path":["songs"]},"level":"error","message":"Error: Operation `song.find()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `playlist.aggregate()` buffering timed out after 10000ms","path":["playlists"]},"level":"error","message":"Error: Operation `playlist.aggregate()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `playlist.aggregate()` buffering timed out after 10000ms","path":["playlists"]},"level":"error","message":"Error: Operation `playlist.aggregate()` buffering timed out after 10000ms"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Operation `song.find()` buffering timed out after 10000ms","path":["songs"]},"level":"error","message":"Error: Operation `song.find()` buffering timed out after 10000ms"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}

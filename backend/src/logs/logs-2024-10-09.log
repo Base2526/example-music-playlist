@@ -1,0 +1,59 @@
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":34,"line":1}],"message":"Variable \"$node_id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$node_id\" of required type \"ID!\" was not provided."}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Error generating XML","path":["bills"]},"level":"error","message":"Error: Error generating XML"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Error generating XML","path":["bills"]},"level":"error","message":"Error: Error generating XML"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Error generating XML","path":["bills"]},"level":"error","message":"Error: Error generating XML"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Error generating XML","path":["bills"]},"level":"error","message":"Error: Error generating XML"}
+{"err":{"locations":[{"column":3,"line":2}],"message":"Error generating XML","path":["bills"]},"level":"error","message":"Error: Error generating XML"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":34,"line":1}],"message":"Variable \"$node_id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$node_id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":34,"line":1}],"message":"Variable \"$node_id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$node_id\" of required type \"ID!\" was not provided."}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":34,"line":1}],"message":"Variable \"$node_id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$node_id\" of required type \"ID!\" was not provided."}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"ERROR","description":{"car_brand":"FORD","car_date_register":"2024-10-29T17:00:00.000Z","car_model":"Everest","email":"som@local.local","idCard":"1223626252533","packages":1,"parentId":"66fc0bffabef1f0072a05db7","tel":"1111111111","username":"ส"}},"locations":[{"column":3,"line":2}],"message":"EXITING ID CARD","path":["register"]},"level":"error","message":"Error: EXITING ID CARD"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"ERROR","description":{}},"locations":[{"column":3,"line":2}],"message":"Error: break;","path":["register"]},"level":"error","message":"Error: Error: break;"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"ERROR","description":{}},"locations":[{"column":3,"line":2}],"message":"Error: break;","path":["register"]},"level":"error","message":"Error: Error: break;"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"ERROR","description":{}},"locations":[{"column":3,"line":2}],"message":"Error: break;","path":["register"]},"level":"error","message":"Error: Error: break;"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"ERROR","description":{}},"locations":[{"column":3,"line":2}],"message":"ReferenceError: node is not defined","path":["register"]},"level":"error","message":"Error: ReferenceError: node is not defined"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"ERROR","description":{}},"locations":[{"column":3,"line":2}],"message":"ReferenceError: node is not defined","path":["register"]},"level":"error","message":"Error: ReferenceError: node is not defined"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":34,"line":1}],"message":"Variable \"$node_id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$node_id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":34,"line":1}],"message":"Variable \"$node_id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$node_id\" of required type \"ID!\" was not provided."}

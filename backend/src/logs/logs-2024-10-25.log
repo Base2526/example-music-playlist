@@ -1,0 +1,161 @@
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"ERROR","description":{}},"locations":[{"column":3,"line":2}],"message":"ValidationError: current.ownerId: Owner-ID is a required field","path":["product"]},"level":"error","message":"Error: ValidationError: current.ownerId: Owner-ID is a required field"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"ERROR","description":{}},"locations":[{"column":3,"line":2}],"message":"ValidationError: current.price_discount_bm: Cast to Number failed for value \"[ 4 ]\" (type Array) at path \"current.price_discount_bm\"","path":["product"]},"level":"error","message":"Error: ValidationError: current.price_discount_bm: Cast to Number failed for value \"[ 4 ]\" (type Array) at path \"current.price_discount_bm\""}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"PASSWORD_WRONG","description":{}},"locations":[{"column":3,"line":2}],"message":"PASSWORD WRONG","path":["login"]},"level":"error","message":"Error: PASSWORD WRONG"}
+{"err":{"extensions":{"code":"PASSWORD_WRONG","description":{}},"locations":[{"column":3,"line":2}],"message":"PASSWORD WRONG","path":["login"]},"level":"error","message":"Error: PASSWORD WRONG"}
+{"err":{"extensions":{"code":"PASSWORD_WRONG","description":{}},"locations":[{"column":3,"line":2}],"message":"PASSWORD WRONG","path":["login"]},"level":"error","message":"Error: PASSWORD WRONG"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"err":{"extensions":{"code":"BAD_USER_INPUT"},"locations":[{"column":15,"line":1}],"message":"Variable \"$id\" of required type \"ID!\" was not provided."},"level":"error","message":"Error: Variable \"$id\" of required type \"ID!\" was not provided."}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
+{"level":"info","message":"Successfully : Connected to database!"}
